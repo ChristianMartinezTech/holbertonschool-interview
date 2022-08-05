@@ -1,1 +1,1 @@
-# holbertonschool-interview
+Folder intended for preparing for interview questions
