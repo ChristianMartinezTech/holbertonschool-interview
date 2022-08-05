@@ -18,6 +18,7 @@ the main_0.py function will call this one. Check it for reference.
 https://stackoverflow.com/questions/63024056/lockboxes-problem-list-inside-a-list-and-each-list-contains-keys-to-unlock-the
 """
 
+
 def canUnlockAll(boxes):
     """Determines if all boxes can be opened"""
     if boxes is None or len(boxes) is 0:
